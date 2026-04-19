@@ -97,3 +97,32 @@ servicenow-workflow-automation/
 ├── platform-considerations.md
 └── images/
     └── cover.png
+
+Key Themes
+ServiceNow workflow automation
+Product ownership
+Requirements and backlog management
+Agile delivery
+Enterprise process improvement
+Stakeholder alignment
+Platform-first thinking
+Adoption and operational visibility
+Confidentiality Note
+
+All content in this repository is anonymized and intended for portfolio use. Any examples are adapted to avoid sharing proprietary, confidential, or sensitive business information.
+
+About Me
+
+I build and support products at the intersection of:
+
+workflow automation
+product ownership
+AI/ML product strategy
+process engineering
+enterprise transformation
+
+My background includes experience in banking, insurance, consulting, and military operations, with a focus on ServiceNow, AI/ML risk modeling, workflow improvement, and cross-functional product delivery.
+
+Connect
+LinkedIn: https://www.linkedin.com/in/christopher-d-cole/
+Location: San Antonio, Texas
