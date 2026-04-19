@@ -1,5 +1,7 @@
 # ServiceNow Workflow Automation
 
+![ServiceNow Workflow Automation cover](images/cover.png)
+
 Portfolio repository highlighting ServiceNow workflow automation, product ownership, requirements, and delivery artifacts for enterprise environments.
 
 ## Overview
