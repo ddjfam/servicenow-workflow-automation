@@ -96,8 +96,8 @@ servicenow-workflow-automation/
 ├── metrics-and-adoption.md
 ├── platform-considerations.md
 └── images/
-    └── cover.png
-```md
+    └── cover.png```md
+
 ## Key Themes
 ServiceNow workflow automation
 Product ownership
