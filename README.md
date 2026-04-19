@@ -97,8 +97,8 @@ servicenow-workflow-automation/
 ├── platform-considerations.md
 └── images/
     └── cover.png
-
-Key Themes
+```md
+## Key Themes
 ServiceNow workflow automation
 Product ownership
 Requirements and backlog management
