@@ -28,6 +28,16 @@ Enterprise workflow automation products must balance user needs, business rules,
 
 This repository shows how I would frame, organize, and communicate workflow automation work using practical product artifacts.
 
+## Delivered Outcomes
+
+Representative outcomes from agent and workflow automation work include:
+
+- Reduced more than 3,000 manual actions per month through RCSA automation and improved compliance visibility.
+- Cut vendor invoice cycle time in half through AI-assisted triage and approval routing.
+- Reduced misrouted IT tickets by 40% through automated classification and assignment.
+- Deflected up to 60% of L1 support tickets with AI-powered self-service assistance.
+- Reduced onboarding time by 35% and improved day-one readiness through HR workflow automation.
+
 ## Focus Areas
 
 - workflow automation strategy
